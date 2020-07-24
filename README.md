@@ -2,7 +2,7 @@
 This is my project from University Java course.
 
 *How to run:
-First of all you should save all files in one filder.
+First of all you should save all files in one folder.
 Using Terminal(Linux, MacOS) or Console compile QuizMaker.java.
 
 if you had installed Java version 8 and more type to the console: javac QuizMaker.java
